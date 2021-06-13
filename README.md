@@ -1,2 +1,2 @@
-# my_ansible_training
+# my_ansible_tutorial
 learning ansible
